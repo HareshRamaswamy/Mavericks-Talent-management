@@ -1,0 +1,78 @@
+
+body {
+  background: linear-gradient(to right bottom,  #FFDBC6, #62DAFE) fixed;
+}
+.submit{
+  background-image: linear-gradient(to right bottom, #FAC6C6,#A3F8FA);
+  border-radius: 5px;
+  border: none;
+  padding: 10px 40px 10px 40px;
+  text-align: center;
+}
+.home{
+  background-image: linear-gradient(to right bottom, #F3FAC6,#A3F8FA);
+  border-radius: 15px;
+  border: none;
+  padding: 10px 40px 10px 40px;
+  height: 33px;
+
+
+}
+.home-div{
+  text-align: center;
+  display: inline-block;
+
+}
+.form-div{
+  margin: auto;
+  width: 25%;
+}
+.form{
+
+
+    background-color: white;
+  text-align: center;
+      border-radius: 0 15px 15px 15px;
+          padding : 30px 10px;
+}
+.dropdown{
+  width: 170px;
+
+  border-radius: 5px;
+  box-shadow: 0 -1px 0 grey;
+}
+
+.components{
+  margin: 10px 50px;
+  padding: 20px 10px;
+}
+.text-box{
+    width: 170px;
+    height: 15px;
+  border-radius: 5px;
+  box-shadow: 0 -1px 0 grey;
+}
+.new{
+  background-color:white;
+  border-radius:15px 15px 0 0 ;
+  border: none;
+  padding: 10px 40px 10px 40px;
+  text-align: left;
+  display: inline-block;
+
+}
+.home:hover{
+  background-image: linear-gradient(to right bottom,#A3F8FA ,#F3FAC6);
+}
+.submit:hover{
+  background-image: linear-gradient(to right bottom,#A3F8FA, #FAC6C6);
+}
+.titletab{
+  font-weight:normal;
+  padding: 0;
+  margin: 0;
+}
+img{
+  height: 100px;
+  width: 200px;
+}
